@@ -34,5 +34,4 @@ This project follows **Object-Oriented Programming (OOP)** principles, utilizing
 ### **Steps to Run the Program**
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/AttendanceApp.git
-   cd AttendanceApp
+[   git clone (https://github.com/vlokkie082/Attendance__App.git)
